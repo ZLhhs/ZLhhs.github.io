@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ZLhhs.github.io/sitemap.xml
